@@ -13,3 +13,6 @@
 [submodule "foreign/aai-industry"]
 	path = foreign/aai-industry
 	url = https://github.com/jiteman/jfm_foreign_aai_industry.git
+[submodule "foreign/Advanced-Electric-v16"]
+	path = foreign/Advanced-Electric-v16
+	url = https://github.com/jiteman/jfm_foreign_advanced_electric_v16.git
