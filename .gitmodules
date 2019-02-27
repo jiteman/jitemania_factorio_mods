@@ -19,3 +19,6 @@
 [submodule "foreign/Advanced_Electric"]
 	path = foreign/Advanced_Electric
 	url = https://github.com/jiteman/jfm_foreign_advanced_electric.git
+[submodule "foreign/Advanced_Radar"]
+	path = foreign/Advanced_Radar
+	url = https://github.com/jiteman/jfm_foreign_advanced_radar.git
