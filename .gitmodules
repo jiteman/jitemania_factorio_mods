@@ -4,3 +4,6 @@
 [submodule "jiteman's/Jitemans-packing"]
 	path = jiteman's/Jitemans-packing
 	url = https://github.com/jiteman/jfm_jitemans_packing.git
+[submodule "jiteman's/Jitemans_Fast_Floor_Removal"]
+	path = jiteman's/Jitemans_Fast_Floor_Removal
+	url = https://github.com/jiteman/jfm_jitemans_fast_floor_removal.git
