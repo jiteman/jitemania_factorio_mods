@@ -7,3 +7,6 @@
 [submodule "jiteman's/Jitemans_Fast_Floor_Removal"]
 	path = jiteman's/Jitemans_Fast_Floor_Removal
 	url = https://github.com/jiteman/jfm_jitemans_fast_floor_removal.git
+[submodule "jiteman's/DataFetcher"]
+	path = jiteman's/DataFetcher
+	url = https://github.com/jiteman/jfm_jitemans_data_fetcher.git
