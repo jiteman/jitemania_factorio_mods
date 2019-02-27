@@ -1,3 +1,6 @@
 [submodule "jiteman's/Jitemans-channeled-wireless-signals"]
 	path = jiteman's/Jitemans-channeled-wireless-signals
 	url = https://github.com/jiteman/jfm_jitemans_channeled_wireless_signals.git
+[submodule "jiteman's/Jitemans-packing"]
+	path = jiteman's/Jitemans-packing
+	url = https://github.com/jiteman/jfm_jitemans_packing.git
