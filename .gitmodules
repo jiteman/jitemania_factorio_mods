@@ -25,3 +25,6 @@
 [submodule "foreign/Bio_Industries_Lite"]
 	path = foreign/Bio_Industries_Lite
 	url = https://github.com/jiteman/jfm_foreign_bio_industries_lite.git
+[submodule "foreign/DoubleFurnace"]
+	path = foreign/DoubleFurnace
+	url = https://github.com/jiteman/jfm_foreign_double_furnace.git
