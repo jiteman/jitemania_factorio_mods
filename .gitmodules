@@ -16,3 +16,6 @@
 [submodule "foreign/Advanced-Electric-v16"]
 	path = foreign/Advanced-Electric-v16
 	url = https://github.com/jiteman/jfm_foreign_advanced_electric_v16.git
+[submodule "foreign/Advanced_Electric"]
+	path = foreign/Advanced_Electric
+	url = https://github.com/jiteman/jfm_foreign_advanced_electric.git
